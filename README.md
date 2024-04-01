@@ -1,8 +1,8 @@
 # Project Name: Sleep Health and Lifestyle Analysis
 
-##☝️Problem: Sleep quality is vital for overall health and well-being, yet many individuals struggle with sleep disorders. Identifying factors contributing to poor sleep and predicting sleep disorders can aid in early intervention and management.
+## ☝️Problem: Sleep quality is vital for overall health and well-being, yet many individuals struggle with sleep disorders. Identifying factors contributing to poor sleep and predicting sleep disorders can aid in early intervention and management.
 
-##💡Solution: Leveraging the Sleep Health and Lifestyle Dataset, which comprises 400 rows and 13 columns covering variables related to sleep and daily habits, this project aims to analyze the data, process it, and develop machine learning classification models to predict the likelihood of sleep disorders. By examining factors such as gender, age, occupation, sleep duration, physical activity level, stress levels, BMI category, and more, the models can provide insights into sleep health and aid in identifying individuals at risk of sleep disorders.
+## 💡Solution: Leveraging the Sleep Health and Lifestyle Dataset, which comprises 400 rows and 13 columns covering variables related to sleep and daily habits, this project aims to analyze the data, process it, and develop machine learning classification models to predict the likelihood of sleep disorders. By examining factors such as gender, age, occupation, sleep duration, physical activity level, stress levels, BMI category, and more, the models can provide insights into sleep health and aid in identifying individuals at risk of sleep disorders.
 
 ## 🔑 Key Features
 - Analyze Sleep Health and Lifestyle Dataset to identify patterns and trends related to sleep and daily habits.
