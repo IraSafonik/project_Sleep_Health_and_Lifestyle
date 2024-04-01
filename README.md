@@ -1,4 +1,4 @@
-# Project Name: Sleep Health and Lifestyle Analysis
+# Project: Sleep Health and Lifestyle Analysis
 
 ## ☝️Problem: 
 Sleep quality is vital for overall health and well-being, yet many individuals struggle with sleep disorders. Identifying factors contributing to poor sleep and predicting sleep disorders can aid in early intervention and management.
