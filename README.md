@@ -47,8 +47,8 @@ This project aimed to analyze and understand the relationship between various he
 6. Blood Pressure Associations: Examination of blood pressure distributions across individuals with different sleep disorders uncovered potential associations between blood pressure levels and specific sleep disorders. For instance, individuals with higher blood pressure readings, such as 140/95 mmHg, appeared more frequently among certain sleep disorder categories.
 
 7. Heart Rate Variability and Sleep Disorders: Among participants with sleep disorders, 70% exhibited reduced HRV during sleep compared to 30% of those without sleep disorders.
-*These findings indicate a potential link between autonomic nervous system function, as reflected by HRV, and sleep disturbances, highlighting the importance of physiological monitoring in sleep research.
+* These findings indicate a potential link between autonomic nervous system function, as reflected by HRV, and sleep disturbances, highlighting the importance of physiological monitoring in sleep research.
 
 12. Health Metric Disparities: Variations in health metrics were evident across individuals with different sleep disorders. For instance, individuals diagnosed with insomnia exhibited higher stress levels and lower physical activity levels compared to those without sleep disorders or with sleep apnea.
 
-## Overall, this project provided valuable insights into the complex relationship between various health metrics, demographics, and sleep disorders. Understanding these relationships can aid in developing targeted interventions and strategies for improving sleep health and overall well-being across different population groups.
+### Overall, this project provided valuable insights into the complex relationship between various health metrics, demographics, and sleep disorders. Understanding these relationships can aid in developing targeted interventions and strategies for improving sleep health and overall well-being across different population groups.
