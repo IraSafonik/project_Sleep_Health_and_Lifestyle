@@ -66,7 +66,6 @@ Certain occupations exhibited higher prevalences of specific sleep disorders. No
 Examination of blood pressure distributions across individuals with different sleep disorders uncovered potential associations between blood pressure levels and specific sleep disorders. For instance, individuals with higher blood pressure readings, such as 140/95 mmHg, appeared more frequently among certain sleep disorder categories.
 <img width="847" alt="Знімок екрана 2024-05-20 о 17 17 54" src="https://github.com/IraSafonik/project_Sleep_Health_and_Lifestyle/assets/32171563/c39c72c7-4094-4965-ab04-f5783cd89474">
 <img width="838" alt="Знімок екрана 2024-05-20 о 17 17 02" src="https://github.com/IraSafonik/project_Sleep_Health_and_Lifestyle/assets/32171563/ee9e0784-a962-4a03-913c-7c46aa063c65">
-<img width="838" alt="Знімок екрана 2024-05-20 о 17 15 19" src="https://github.com/IraSafonik/project_Sleep_Health_and_Lifestyle/assets/32171563/50f62974-f1c0-4301-b0a8-4fde5cca1b53">
 
 ### 7. Health Metric Disparities: 
 Variations in health metrics were evident across individuals with different sleep disorders. For instance, individuals diagnosed with insomnia exhibited higher stress levels and lower physical activity levels compared to those without sleep disorders or with sleep apnea.
